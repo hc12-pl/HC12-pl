@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HC12
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning unity & java & javascript
+- 👀 I’m interested in Front - End Development
+- 🌱 I’m currently learning more about php & html & js & css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - email: kasiamariuszszymon0@gmail.com
